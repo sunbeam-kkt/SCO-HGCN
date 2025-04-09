@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="432ec4f8-e3e5-46a7-9be3-0e77eba1a6d7" name="cumt_506">
+        <fileTransfer accessType="SFTP" host="192.168.0.112" port="22" sshConfigId="f0cd2c00-58b4-46da-bbff-2ed033f16423" sshConfig="cumt_506@192.168.0.112:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
