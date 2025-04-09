@@ -1,4 +1,4 @@
-![SCO-HGCN](https://github.com/sunbeam-kkt/SCO-HGCN/blob/master/SCO-HGCN%E6%80%BB%E5%9B%BE.pdf)
+![SCO-HGCN](https://github.com/sunbeam-kkt/SCO-HGCN/blob/master/SCO-HGCN.png)
 
 # This is the official implementation of SCO-HGCN. 
 
